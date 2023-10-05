@@ -6,6 +6,9 @@
 [<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/pranjuljain54)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pranjuljain54@gmail.com)
 
+[<img src="https://github.com/Pranjuljain1602/Pranjuljain1602/blob/main/portfolio%20img.png" />](https://pranjuljain1602.github.io/My_Portfolio/)
+
+
 ## 🚀 *About me*
 
 **I'm a Full-Stack Developer living in Alwar, Rajasthan, India. Currently, I'm a CSE third-year student, pursuing my B.tech degree at Geetanjali Institute Of Technical Studies Udaipur, Rajasthan. I aspire to inspire others to learn to code and solve real-world problems. I create custom websites that help people go further online. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge of HTML5, CSS3, SCSS, JavaScript, Tailwind CSS, Bootstrap, ReactJS, NodeJS, MySQL and MongoDB.**
