@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/pranjuljain54)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pranjuljain54@gmail.com)
 
-[<img src="https://github.com/Pranjuljain1602/Pranjuljain1602/blob/main/portfolio%20img.png" />](https://pranjuljain1602.github.io/My_Portfolio/)
+[<img src="https://github.com/Pranjuljain1602/Pranjuljain1602/blob/main/portfolio%20img.png" />](https://portfolio1602.netlify.app/)
 
 
 ## 🚀 *About me*
