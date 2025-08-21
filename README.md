@@ -1,9 +1,8 @@
-<h1>Hi there 👋, I am Pranjul!🙋‍♂️</h1>
+<h1>Hi there 👋, I am Pranjul Jain!🙋‍♂️</h1>
 
 [<img src="https://github.com/Pranjuljain1602/Pranjuljain1602/blob/main/PRANJUL%20JAIN%20new%20banner.png" />](https://www.linkedin.com/in/pranjul-jain-programming-enthusiastic/)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pranjul-jain-programming-enthusiastic/)
-[<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/pranjuljain54)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pranjuljain54@gmail.com)
 
 [<img src="https://github.com/Pranjuljain1602/Pranjuljain1602/blob/main/portfolio%20img.png" />](https://portfolio1602.netlify.app/)
@@ -11,15 +10,15 @@
 
 ## 🚀 *About me*
 
-**As a dedicated 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with one year of experience, I specialize in crafting user-centric web experiences. My expertise lies in 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝘃𝗲 𝗱𝗲𝘀𝗶𝗴𝗻, and I have a strong command of 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, and 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, along with modern frameworks such as 𝗥𝗲𝗮𝗰𝘁 𝗮𝗻𝗱 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦.**
+**I’m a full-stack developer passionate about crafting scalable, responsive, and visually engaging web applications that blend performance, creativity, and innovation. With expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, GSAP, and Three.js, I build modern solutions that are fast, reliable, and business-driven. My focus is on creating future-ready applications that enhance user experience and deliver a measurable impact.**
 
-## 💼 *Professional Experience*
+**✨ Beyond full-stack development, I actively explore AI-driven tools, automation, and workflow optimisation to help businesses work smarter, scale faster, and stay ahead in the digital era.**
 
-**Web Developer at [𝗖𝘆𝗯𝗲𝗿𝟯𝟲𝟬 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀](https://cyber360technologies.com/): Redesigned the company website, enhancing user experience by 𝟱%**
+## *⭐ Freelance Collaborations that Created Impact*
 
-**React.js Developer Intern [Aajeevika Bereau](https://www.aajeevika.org/) -  Re-designed an interactive web portal providing to track the work that employees have done over the past fortnight, and to provide managers with a way to assess employee performance. Worked on React & Redux**
+**◾ Cyber360 Technologies (Hyderabad) – Revamped their corporate site into a sleek, responsive platform, enhancing brand credibility and client trust.**
 
-**Frontend Developer Intern [iNeuron.ai](https://ineuron.ai/) - Created a dynamic Quiz Web App that is easy to use and engaging for users of all ages. Worked on React**
+**◾ Mahaveer Suntch Solar (Jaipur) – Built a growth-oriented digital platform that improved visibility and generated new customer leads.**
 
 ## ⚡ Technologies
 ### Language
@@ -45,7 +44,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
