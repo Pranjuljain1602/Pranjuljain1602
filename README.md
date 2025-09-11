@@ -1,11 +1,10 @@
 <h1>Hi there 👋, I am Pranjul Jain!🙋‍♂️</h1>
 
-[<img src="https://github.com/Pranjuljain1602/Pranjuljain1602/blob/main/PRANJUL%20JAIN%20new%20banner.png" />](https://www.linkedin.com/in/pranjul-jain-programming-enthusiastic/)
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pranjul-jain-programming-enthusiastic/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pranjuljain54@gmail.com)
 
-[<img src="https://github.com/Pranjuljain1602/Pranjuljain1602/blob/main/portfolio%20img.png" />](https://portfolio1602.netlify.app/)
 
 
 ## 🚀 *About me*
